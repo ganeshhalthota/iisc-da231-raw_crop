@@ -12,6 +12,8 @@ The project structure is as follows:
 root
   |- code : Contains the iPython files exported from Google Colab
   |- data : Contains all the data which is used for running the code
+  |- report : Contains PDF report for the project
+  |- slides : Contains PDF file for presentation
 
 </pre>
 
