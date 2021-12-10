@@ -43,3 +43,10 @@ root
 <br>**Size**: 36 records x 8 columns
 <br>**Format**: csv
 <br>**Granularity**: State level from 2001 and 2011 census
+
+## Code
+
+The main code is available in [RAW Crop.ipynb](https://github.com/ganesh737/iisc-da231-raw_crop/blob/master/code/RAW_Crop.ipynb)
+
+The evaluation code is available in [RAW Crop Evaluation.ipynb](https://github.com/ganesh737/iisc-da231-raw_crop/blob/master/code/RAW_Crop_Evaluations.ipynb)
+
